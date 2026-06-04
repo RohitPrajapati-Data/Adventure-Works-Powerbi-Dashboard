@@ -73,10 +73,10 @@ This Power BI dashboard analyzes sales performance, cost analysis, order trends,
 
 ## Project Files
 
-Adventure-Works-Dashboard.pbix
-Reseller.csv
-sales.xlsx
-Adventure-Works-Dashboard.pdf
+-Adventure-Works-Dashboard.pbix
+-Reseller.csv
+-sales.xlsx
+-Adventure-Works-Dashboard.pdf
 
 ## Project Report
 
